@@ -1,6 +1,6 @@
 # 30 Days of Android
 
-![30 Days of Android](ic_launcher-playstore.png)
+<img src="images/ic_launcher-playstore.png" alt="logo" width=256/>
 
 30 Days of Android is an Android application designed to guide you through a 30-day journey of learning and mastering Android app development. This app provides a structured curriculum with daily topics to help you build your Android development skills, understand key concepts, and create real-world Android applications. Whether you're a beginner or an experienced developer, 30 Days of Android offers a comprehensive learning experience to enhance your proficiency in Android development.
 
@@ -12,10 +12,12 @@
 
 ## Screenshots
 
-![Screenshot 1](images/Screenshot1.png)
-![Screenshot 2](images/Screenshot2.png)
-![Screenshot 3](images/Screenshot3.png)
-![Screenshot 4](images/Screenshot4.png)
+<div>
+  <img src="images/Screenshot1.png" alt="screenshot1" width=225/>
+  <img src="images/Screenshot2.png" alt="screenshot2" width=225/>
+  <img src="images/Screenshot3.png" alt="screenshot3" width=225/>
+  <img src="images/Screenshot4.png" alt="screenshot4" width=225/>
+</div>
 
 ## Installation
 
