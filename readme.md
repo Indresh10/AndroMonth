@@ -21,7 +21,7 @@
 
 ## Installation
 
-1. Download the APK file from the [releases](https://github.com/username/AndroMonth/releases) section of this repository.
+1. Download the APK file from the [releases](https://github.com/Indresh10/AndroMonth/releases) section of this repository.
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to **Settings > Security** and enable **Unknown sources** to allow the installation of apps from sources other than the Play Store.
 4. Use a file manager app to locate the APK file and tap on it to begin the installation.
